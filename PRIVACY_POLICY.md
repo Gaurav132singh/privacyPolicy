@@ -1,6 +1,5 @@
 # Privacy Policy for MyNotes
 
-**Effective date:** [Date of publication]
 
 Gaurav Singh ("us", "we", or "our") operates the MyNotes mobile application (the "Service").
 
